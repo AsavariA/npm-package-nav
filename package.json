@@ -1,14 +1,13 @@
 {
-    "name": "YOUR_PACKAGE_NAME",
+    "name": "responsive-sticky-nav",
     "version": "0.1.0",
     "description": "",
-    "main": "./lib/YOUR_COMPONENT.js",
+    "main": "./lib/Navbar.js",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
     },
     "peerDependencies": {
-        "prop-types": "^15.6.0",
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
     },
@@ -20,7 +19,6 @@
         "babel-preset-stage-0": "^6.24.1",
         "css-loader": "^3.5.1",
         "path": "^0.12.7",
-        "prop-types": "^15.6.0",
         "react": "^16.0.0",
         "react-dom": "^16.0.0",
         "style-loader": "^1.1.3",

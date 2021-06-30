@@ -1,0 +1,58 @@
+.navbar{
+    display: flex;
+    background-color:aliceblue;
+    align-items: center;
+    justify-content: space-around;
+    width: -webkit-fill-available;
+    color: black;
+    z-index: 5000;
+}
+
+
+.burger{
+    display: none;
+  }
+  
+  .burger div{
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 5px;
+    transition: all 0.3s ease;
+  }
+
+  .logo-img{
+    height: 3rem;
+    margin: 0.5rem 0;
+  }
+
+  .navlinks{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  @media screen and (max-width: 760px) {
+    .navlinks{
+      position: absolute;
+      right: 0px;
+      height: 50vh;
+      margin: 0;
+      top: 0vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      background-color: aliceblue;
+      justify-content: center;
+      transition: transform 0.5s ease-in;
+      z-index: 9000;
+    }
+
+    .burger {
+        display: block;
+        cursor: pointer;
+        transition-property: back;
+        z-index: 9000;
+      }
+  }
