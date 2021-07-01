@@ -12,8 +12,8 @@ $ npm i responsive-sticky-nav --save
 ---
 
 ### Demo
-![Image1](https://github.com/AsavariA/npm-responsive-sticky-nav/blob/master/demo/nav1.gif)
-![Image2](https://github.com/AsavariA/npm-responsive-sticky-nav/blob/master/demo/nav2.gif)
+[Demo1 - sticky](https://drive.google.com/file/d/1LSa3l_sFoStbyUeD1ipGHhzFZBYyAbhE/view?usp=sharing) \
+[Demo2 - responsive](https://drive.google.com/file/d/1zsAZAI2dPSjNLzZt0ACcdvKG3dq1pEvZ/view?usp=sharing)
 
 ### Usage
 

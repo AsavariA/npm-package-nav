@@ -4,9 +4,22 @@
     "description": "",
     "main": "./lib/Navbar.js",
     "license": "MIT",
+    "author": "Asavari Ambavane",
     "scripts": {
         "build": "webpack"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AsavariA/npm-package-nav"
+    },
+    "homepage": "https://github.com/AsavariA/npm-package-nav",
+    "keywords": [
+        "navbar",
+        "responsive",
+        "sticky",
+        "ui",
+        "nav"
+    ],
     "peerDependencies": {
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
